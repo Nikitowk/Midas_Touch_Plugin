@@ -10,5 +10,6 @@ public class BukkitListener implements Listener {
     public void onPlayerSneak(PlayerToggleSneakEvent event){
         Player player = event.getPlayer();
 
+
     }
 }
