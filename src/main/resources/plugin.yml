@@ -1,0 +1,5 @@
+name: LearningProject # the plugins name as it should appear in the plugin list /pl
+version: 1.0 # the plugin's version
+author: Kiernan
+main: me.kiernan.learn.Main
+api-version: 1.13 # the version of the API you want to use, required starting with 1.13
