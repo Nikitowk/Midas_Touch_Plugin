@@ -1,0 +1,10 @@
+name: LearningProject
+version: 1.6
+author: Kiernan
+main: me.kiernan.learn.Main
+api-version: 1.14
+commands:
+  midas:
+    description: Gives the player midas' touch, allowing them to change a clicked block to gold
+    usage: /<command>
+
